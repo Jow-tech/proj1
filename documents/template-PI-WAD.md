@@ -28,7 +28,7 @@ Oferecer uma plataforma digital para moradores reservarem espaços comuns (como 
 
 <div align="center">
   <sub>FIGURA PERSONA1- (PERSONA DO PROJETO PESSOAL1)</sub><br>
-  <img src= "(assets/PERSONA-PROJ1.png)" width="100%"
+  <img src= "assets/PERSONA-PROJ1.png" width="100%"
   alt=" Persona do projeto ">(espaço para escrever oq é a imagem)<br>
   <sup>Fonte: Material produzido pelo autor Henrique de Lima Da Rós, 2025</sup>
 </div>
