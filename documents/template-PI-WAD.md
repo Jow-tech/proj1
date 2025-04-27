@@ -27,10 +27,7 @@ Oferecer uma plataforma digital para moradores reservarem espaços comuns (como 
 ### 2.1. Personas (Semana 01)
 
 <div align="center">
-  <sub>FIGURA PERSONA1- (PERSONA DO PROJETO PESSOAL1)</sub><br>
-  <img src= "assets/PERSONA-PROJ1.png" width="100%"
-  alt=" Persona do projeto ">(espaço para escrever oq é a imagem)<br>
-  <sup>Fonte: Material produzido pelo autor Henrique de Lima Da Rós, 2025</sup>
+  <img src="assets\PERSONA-PROJ1.png" width="75%" alt="Persona"><br>
 </div>
 ### 2.2. User Stories (Semana 01)
 
