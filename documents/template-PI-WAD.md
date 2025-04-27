@@ -37,6 +37,13 @@ US02 | Como morador do predio, quero apenas reservar pelo meu celular o salão d
 
 US03 | Como propríetaria de uma empresa de limpeza, quero agilizar processos de interações com síndicos e moradores dos predios, para que o meu serviço seja apenaws de limpeza e não de tirar dúvidas do cliente.
 
+I |  o síndico só precisa acessar o sistema; não depende diretamente de outra funcionalidade.
+N |  o que exatamente o síndico vê? Dashboard? Notificações? Fluxo aberto para discussão.
+V |  facilita a vida do síndico e reduz trabalho manual, que é o objetivo.
+E |  criar uma tela de acesso e checagem de sistema é algo bem claro e específico.
+S |  a descrição é um pouco mais longa pelo fato de ter dois processos diferentes 1- Acesso ao sistema e 2- Acompanhamento de reservas e limpeza.
+T |  dá para criar um teste para verificar se o síndico consegue acessar e acompanhar as reservas sem necessidade de intervenção humana.
+
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
 ### 3.1. Modelagem do banco de dados  (Semana 3)
